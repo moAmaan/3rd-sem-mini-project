@@ -1,7 +1,7 @@
 # Student Report Card Handling System
 ## Requirements
 -A suitable IDE to run the program (I USE VISUAL STUDIO CODE)
-## launch the program by studentreport.cpp
+## Start the program by launching studentreport.cpp
 It consists following methods
 - insert_record 
   - to record student data
